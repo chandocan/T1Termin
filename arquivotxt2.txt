@@ -1,0 +1,18 @@
+Tecnologia
+
+A tecnologia da informação é uma das muitas ferramentas que os gerentes utilizam para enfrentar mudanças e complexidade.
+
+Hardware é o equipamento físico usado para atividades de entrada, processamento e saída de um sistema de informação. Consiste em computadores de vários tipos e formatos;
+
+diversos dispositivos de entrada, saída e armazenamento; e os dispositivos de telecomunicações que interligam todos esses elementos.
+
+O software consiste em instruções detalhadas e pré-programadas que controlam e coordenam os componentes de hardware de um sistema de informação.Depois podemos  descreve as plataformas de software e hardware utilizadas pelas empresas de hoje em com mais detalhes.
+
+A tecnologia de armazenamento de dados consiste no software que comanda a organização dos dados em meios físicos de armazenamento, Mais detalhes sobre os métodos para organizar e acessar os dados mais  a frente.
+
+ A tecnologia de armazenamento de redes composta por dispositivos físicos e software inter liga os diversos equipamentos de computação e transfere dados de uma localização física para outra.
+Equipamentos de computação e comunicação podem ser conectados em redes para compartilhar voz, dados, imagens, som e até video. Uma rede liga dois ou mais computadores para compartilhar dados ou recursos, tais como uma impressora.
+
+A maior rede do mundo e a mais amplamente utilizada é a Internet. A Internet é uma “rede dasredes” global que usa padrões universais para conectar milhões de diferentes redes em mais de 230 países ao redor do mundo.
+
+A Internet criou uma plataforma de tecnologia “universal” sobre a qual se constroem novos produtos, serviços, estratégias e modelos de negócios. Essa mesma plataforma tecnológica também tem usos internos, fornecendo conectividade para unir diferentes sistemas e redes dentro de uma empresa. As redes corporativas internas baseadas na tecnologia da Internet são chamadas de intranets. As intranets particulares que permitem o acesso de usuários autorizados fora da organização são chamadas de extranets; as empresas usam essas redes para coordenar suas atividades com outras empresas e, assim, fazer compras, colabora em projetos e executar outras atividades interorganizacionais. Hoje, para a maioria das empresas usar  a internet é tanto uma necessidade empresarial quanto uma vantagem competitiva.
